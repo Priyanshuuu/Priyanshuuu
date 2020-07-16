@@ -24,7 +24,7 @@ Hi, I'm Priyanshu Pandey, a Software Engineer and Competitive Programmer 🚀 fr
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️🗻.
 
-I would be honest, I always wanted to know the magic✨ and power🔥 behind numbers🔢 in matrix movie and ofcourse red pill.
+I would be honest, I always wanted to know the magic✨ and power🔥 behind numbers🔢 in matrix movie and of course red pill.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" />
 
