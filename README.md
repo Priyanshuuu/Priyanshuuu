@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi, I'm Priyanshu Pandey, a Software Engineer and Competitive Programmer 🚀 from India, Currently working as a System Engineer 🙍🏽‍♂️ [@TCS](https://www.tcs.com/).
+Hi, I'm Priyanshu Pandey, a Sr. Software Engineer 🚀 from India, Currently working as a Tech Lead Engineer 🙍🏽‍♂️ [@UIDAI](https://uidai.gov.in/) 🇮🇳
 
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️🗻.
